@@ -1,10 +1,9 @@
 import { Inter } from "next/font/google";
-import "./component/globals.css";
-
+import "./components/globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Lama Dev Next.js Admin Dashboard",
+  title: "--",
   description: "Next.js Tutorial",
 };
 

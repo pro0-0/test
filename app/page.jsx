@@ -1,7 +1,7 @@
-const Homepage = () => {
-  return (
-    <div>Homepage</div>
-  )
-}
+import React from "react";
 
-export default Homepage
+const Homepage = () => {
+  return <div className="bg-gray-800">Homepage</div>;
+};
+
+export default Homepage;
